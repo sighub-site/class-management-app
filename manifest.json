@@ -1,0 +1,17 @@
+{
+  "name": "ניהול כיתה - תיקי תלמידים",
+  "short_name": "ניהול כיתה",
+  "description": "אפליקציה אישית לתיעוד ומעקב אחר תלמידי הכיתה",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#2b6cb0",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "he",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
